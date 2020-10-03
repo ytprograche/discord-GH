@@ -12,5 +12,5 @@
 - Normal
 - Streaming
 
-##### [Visitar pagina](https://cratermaik.github.io/discord-ui/)
-##### [Discord](https://discord.gg/g6ssSmK)
+##### [Visitar pagina](https://discord.gg/3BKnmfd)
+##### [Discord](https://discord.gg/3BKnmfd)
