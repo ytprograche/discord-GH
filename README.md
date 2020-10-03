@@ -1,7 +1,7 @@
 
-# Discord-UI
+# Discord GH
 
-![](https://media.discordapp.net/attachments/751856022716678289/761889606907461642/discord_gh_logo.png?width=593&height=593)
+![](https://media.discordapp.net/attachments/756602927090761778/761892778602790953/discord_gh_logo_1.png)
 
 ![GitHub forks](https://img.shields.io/github/forks/ytprograche/discord-GH)  ![GitHub Repo stars](https://img.shields.io/github/stars/ytprograche/discord-GH) 
 ##### Novedades:  
