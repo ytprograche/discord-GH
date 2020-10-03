@@ -1,9 +1,10 @@
 
 # Discord-UI
 
-![](https://cdn.discordapp.com/icons/312846399731662850/a_335ba326b00292321f8bb92d01c01d9e.webp)
+![](https://media.discordapp.net/attachments/751856022716678289/761889606907461642/discord_gh_logo.png?width=593&height=593)
 
-![GitHub forks](https://img.shields.io/github/forks/CraterMaik/discord-ui?style=social)  ![GitHub Repo stars]() ![Discord](https://img.shields.io/discord/312846399731662850?label=Discord)
+![GitHub forks](https://img.shields.io/github/forks/ytprograche/discord-GH)  ![GitHub Repo stars](https://img.shields.io/github/stars/ytprograche/discord-GH) 
+##### Novedades:  
 
 ##### Actividades disponibles:
 - Jugando
